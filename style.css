@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ewert&family=Grenze+Gotisch:wght@100..900&family=Manufacturing+Consent&family=Oswald:wght@200..700&family=UoqMunThenKhung&display=swap');
+
+h1 {
+    font-size: 100px;
+    color:aquamarine;
+    text-align: center;
+
+}
+
+body {
+    background-image: url("https://plus.unsplash.com/premium_photo-1673623135721-a0ea3caff642?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c3Vuc2V0fGVufDB8fDB8fHww")
+   
+}
